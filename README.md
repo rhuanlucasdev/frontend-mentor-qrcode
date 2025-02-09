@@ -34,4 +34,4 @@ I want to continue working on making even better responsive web layouts.
 ## Author
 
 - Frontend Mentor - [@rhuanlucasdev](https://www.frontendmentor.io/profile/rhuanlucasdev)
-- Linkedin - [Rhuan Lucas](www.linkedin.com/in/rhuanlucasnutri)
+- Linkedin - [Rhuan Lucas](https://www.linkedin.com/in/rhuanlucasnutri/)
